@@ -1,3 +1,8 @@
+# Air-Sense <img src="https://img.shields.io/badge/by-OrangeMintz & ramzel1414-016eea.svg?logo=github&labelColor=181717&">
+AirSense is an Internet of Things (IoT)-based air quality monitoring system designed to address these urban challenges. Using arduino-based sensors, AirSense continuously collects real-time environmental data on pollutants
+such as PM10, PM2.5, O3, CO, and NO2. The system’s core includes both real-time monitorings through
+IoT sensors and forecasting capabilities powered by the Random Forest algorithm.
+
 # SetUp
 
 -   composer install
